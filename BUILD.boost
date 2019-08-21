@@ -766,7 +766,6 @@ boost_library(
         "boost/cstdint.hpp",
         "boost/integer_traits.hpp",
         "boost/pending/integer_log2.hpp",
-        "boost/pending/lowest_bit.hpp",
     ],
     deps = [
         ":static_assert",
