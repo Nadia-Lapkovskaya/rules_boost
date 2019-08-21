@@ -131,7 +131,7 @@ def boost_deps():
             name = "boost",
             build_file = "@com_github_nelhage_rules_boost//:BUILD.boost",
             sha256 = "882b48708d211a5f48e60b0124cf5863c1534cd544ecd0664bb534a4b5d506e9",
-            strip_prefix = "boost_1_68_0",
+            strip_prefix = "boost_1_70_0",
             urls = [
                 "https://%s.dl.sourceforge.net/project/boost/boost/1.70.0/boost_1_70_0.tar.gz" % m
                 for m in SOURCEFORGE_MIRRORS
