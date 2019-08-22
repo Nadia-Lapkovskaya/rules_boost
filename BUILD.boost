@@ -316,6 +316,7 @@ boost_library(
         ":throw_exception",
         ":utility",
         ":mp11",
+        ":tribool",
     ],
 )
 
