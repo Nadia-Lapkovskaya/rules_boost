@@ -315,6 +315,7 @@ boost_library(
         ":system",
         ":throw_exception",
         ":utility",
+        ":mp11",
     ],
 )
 
